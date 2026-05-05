@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssemh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Widget" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssemh&layout=compact&theme=tokyonight&hide_border=true&v=1&cache_seconds=86400" alt="Top Languages Widget" />
 </p>
 
 <br>
@@ -12,5 +12,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
