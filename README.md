@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssemh&layout=compact&theme=tokyonight&hide_border=true&v=1&cache_seconds=86400" alt="Top Languages Widget" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssemh&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <br>
